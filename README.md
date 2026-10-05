@@ -4,6 +4,10 @@
 
 An open-source alternative to macOS Head Pointer: control the pointer with your face or eyes using an ordinary webcam. It's a native Swift menu-bar app built only on Apple frameworks (AVFoundation, Vision, SwiftUI) with no third-party dependencies. All processing happens on the Mac, and no video is stored or sent anywhere.
 
+![OpenHeadPointer demo: an illustration of the pointer following head movement](docs/demo.gif)
+
+*Illustration of how it behaves, not a recording of the app.*
+
 > **Prototype.** Expect rough edges. It needs a webcam and reasonable lighting.
 
 ## Install (prototype)
